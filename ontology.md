@@ -1,4 +1,6 @@
-# Ontology
+---
+title: Ontology
+---
 
 <blockquote cite="https://en.wikipedia.org/wiki/Ontology_(information_science)">
   <p>In computer science and information science, an ontology encompasses a representation, formal naming and definition of the categories, properties and relations between the concepts, data and entities that substantiate one, many or all domains of discourse.</p>

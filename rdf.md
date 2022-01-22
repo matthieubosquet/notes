@@ -1,4 +1,6 @@
-# RDF
+---
+title: RDF
+---
 
 > The Resource Description Framework (RDF) is a framework for representing information in the Web.
 >

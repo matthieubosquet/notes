@@ -1,0 +1,8 @@
+/** General styles */
+body {
+  color: hsla(0,0%,0%,0.9);
+  font-family: "Ubuntu", Sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}

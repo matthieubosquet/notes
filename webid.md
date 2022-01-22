@@ -1,4 +1,6 @@
-# WebID
+---
+title: WebID
+---
 
 > A WebID is an HTTP URI which refers to an Agent (Person, Organization, Group, Device, etc.).
 >
