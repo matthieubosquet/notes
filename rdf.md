@@ -73,4 +73,3 @@ ex:bob a foaf:Person .
 - [FOAF Vocabulary Specification](http://xmlns.com/foaf/spec/)
 - [RDF Schema 1.1](https://www.w3.org/TR/rdf-schema/)
 - [Internationalized Resource Identifiers (RFC3987)](https://www.ietf.org/rfc/rfc3987.html)
-- []()
