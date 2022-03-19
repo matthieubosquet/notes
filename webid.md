@@ -6,6 +6,7 @@ title: WebID
 >
 > ― [WebID 1.0: Introduction](https://www.w3.org/2005/Incubator/webid/spec/identity/#introduction)
 
+
 ## Requirements
 
 The only requirements for a WebID Profile Document are the following:
@@ -22,6 +23,7 @@ The only requirements for a WebID Profile Document are the following:
     > The WebID HTTP URI must be one that dereferences to a document the user controls.
     >
     > — [WebID 1.0: The WebID HTTP URI](https://www.w3.org/2005/Incubator/webid/spec/identity/#the-webid-http-uri)
+
 
 ## Public and private profiles
 
@@ -55,6 +57,15 @@ ex:alice
   foaf:isPrimaryTopicOf ex:publicProfileDocument, ex:privateProfileDocument ;
 .
 ```
+
+
+## Definitions
+
+<dl>
+    <dt>WebID</dt>
+    <dd>An HTTP URI which refers to an <a href="http://xmlns.com/foaf/spec/#term_Agent">Agent</a> and conforms to a set of <a href="#requirements">requirements</a> defined in the <a href="https://www.w3.org/2005/Incubator/webid/spec/identity/">WebID specification</a>.</dd>
+</dl>
+
 
 ## References
 
