@@ -50,7 +50,7 @@ HOST: example.org
 HTTP/2 200
 Content-Type: text/turtle
 
-PREFIX ex: <https://example.org/>
+prefix ex: <https://example.org/>
 prefix foaf: <http://xmlns.com/foaf/0.1/>
 
 ex:alice
