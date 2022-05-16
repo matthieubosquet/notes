@@ -1,5 +1,27 @@
 # ACP algorithms
 
+## Effective Policies
+
+```javascript
+function gatherEffectivePolicies(acr, ancestorAcrs) {
+    const policies = new Set
+
+    // Direct access controls of own ACR.
+    for (const accessControl of acr.accessControls)
+        for (const policy of accessControl.apply)
+            policies.add(policy)
+
+    // Member access controls of ancestor ACRs.
+    for (const acr of ancestorAcrs)
+        for (const accessControl of acr.memberAccessControls)
+            for (const policy of accessControl.apply)
+                policies.add(policy)
+
+    return policies
+}
+```
+
+
 ## Granted Access Modes
 
 ```javascript
@@ -26,7 +48,6 @@ function grantAccessModes(policies, context) {
 
 
 ## Satisfied Policy
-
 
 ```javascript
 function isSatisfiedPolicy(policy, context) {
