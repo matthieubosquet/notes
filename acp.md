@@ -1,5 +1,20 @@
 # ACP algorithms
 
+## Resolved Access Control
+
+```javascript
+function resolveAccessControl(acr, ancestorAcrs, context) {
+    const effectivePolicies = gatherEffectivePolicies(acr, ancestorAcrs)
+    const allowedAccessModes = grantAccessModes(effectivePolicies, context)
+    const grantGraph = {
+        context,
+        grant: allowedAccessModes
+    }
+
+    return grantGraph
+}
+```
+
 ## Effective Policies
 
 ```javascript
