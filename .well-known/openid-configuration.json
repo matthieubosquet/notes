@@ -1,0 +1,14 @@
+{
+  "jwks_uri": ".",
+  "keys": [
+    {
+      "key_ops": [ "sign" ],
+      "ext": true,
+      "kty": "EC",
+      "x": "AXGsDy6vDbF8PoCkqVAanTIhSHG3FtHh20onI_FS-cEXFI7cDpiL6KDp7M4Db2hP6pVk3VV-vlBZmgcuUdyp2U-y",
+      "y": "ASyUW0-IAlhSBTP05Umn7VkQvDbjB9ez4CGtOMqLvP_5ReVCRHCjrWODfJRxOkkcsL03z0r85fRvmpPyKLvg_b9e",
+      "crv": "P-521",
+      "d": "AeXCYkQRLrZwcN75WQNzJmswn9es9VrAwIcHymwmBugZD6mi5Q3irONhiTCf6osssQy4m-TtzWStJE1df6fB5cgB"
+    }
+  ]
+}
