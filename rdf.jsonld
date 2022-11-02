@@ -1,8 +1,0 @@
-{
-  "@context": [
-    {
-      "title": "https://example.org/title"
-    }
-  ],
-  "title": "RDF"
-}
