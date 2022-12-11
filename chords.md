@@ -12,9 +12,24 @@
   <dt>Diminished</dt>
   <dd>Root, minor third, diminished fifth.</dd>
 
-  <dt></dt>
-  <dd></dd>
+  <dt>Augmented</dt>
+  <dd>Root, third, augmented fifth.</dd>
 
-  <dt></dt>
-  <dd></dd>
+  <dt>Seventh (dominant)</dt>
+  <dd>Root, third, fifth, seventh.</dd>
+
+  <dt>Major seventh</dt>
+  <dd>Root, third, fifth, major seventh.</dd>
+
+  <dt>Minor seventh</dt>
+  <dd>Root, minor third, fifth, seventh.</dd>
+
+  <dt>Minor sixth</dt>
+  <dd>Root, minor third, fifth, sixth.</dd>
+
+  <dt>Half-diminished seventh</dt>
+  <dd>Root, minor third, diminished fifth, seventh.</dd>
+
+  <dt>Diminished seventh</dt>
+  <dd>Root, minor third, diminished fifth, diminished seventh (sixth).</dd>
 </dl>
