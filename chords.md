@@ -1,4 +1,6 @@
-# Chords
+---
+title: Chords
+---
 
 ## Overview
 

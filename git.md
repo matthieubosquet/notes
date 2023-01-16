@@ -1,4 +1,6 @@
-# Git
+---
+title: Git
+---
 
 > Git is a free and open source distributed version control system...
 > – https://git-scm.com/

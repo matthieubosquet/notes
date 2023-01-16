@@ -1,7 +1,11 @@
-# GPG
+---
+title: GPG
+---
 
 > The GNU Privacy Guard
+>
 > GnuPG is a complete and free implementation of the OpenPGP standard as defined by [RFC4880](https://www.ietf.org/rfc/rfc4880.txt) (also known as PGP).
+>
 > – https://gnupg.org/
 
 
