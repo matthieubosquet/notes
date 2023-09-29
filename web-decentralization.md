@@ -1,4 +1,6 @@
-# Web Decentralization
+---
+title: Web Decentralization
+---
 
 RDF is a framework for representing information in the Web.
 
