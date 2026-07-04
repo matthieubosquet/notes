@@ -1,5 +1,7 @@
 ---
 title: Web Decentralization
+breadcrumbs:
+  - title: Semantic Web
 ---
 
 RDF is a framework for representing information in the Web.

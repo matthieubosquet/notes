@@ -1,5 +1,7 @@
 ---
 title: WebID
+breadcrumbs:
+  - title: Semantic Web
 ---
 
 > A WebID is an HTTP URI which refers to an Agent (Person, Organization, Group, Device, etc.).

@@ -1,5 +1,7 @@
 ---
 title: RDF
+breadcrumbs:
+  - title: Semantic Web
 ---
 
 > The Resource Description Framework (RDF) is a framework for representing information in the Web.
