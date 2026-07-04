@@ -1,0 +1,4 @@
+{% if include.tags.size > 0 %}
+<ul class="tag-list">{% for tag in include.tags %}
+    <li><a class="tag" href="{{ page.permalink }}?tag={{ tag | url_encode }}">{{ tag }}</a></li>{% endfor %}
+</ul>{% endif %}

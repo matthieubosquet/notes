@@ -1,5 +1,7 @@
 ---
 title: GPG
+breadcrumbs:
+  - title: Toolbox
 ---
 
 > The GNU Privacy Guard
@@ -15,7 +17,7 @@ title: GPG
 $ brew install gpg
 ```
 
-## Check existing keys
+## List existing keys
 
 ```sh
 $ gpg --list-secret-keys --keyid-format=long

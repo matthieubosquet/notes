@@ -1,0 +1,7 @@
+{% if include.content.size > 0 %}
+<ul class="content-list tag-filtered-list">{% for item in include.content %}{% if item.title %}
+    <li data-tags="{{ item.tags | join: ',' }}">
+    <strong><a href="{{ item.url }}">{{ item.title }}</a></strong>
+    {% include tags.html tags=item.tags %}
+  </li>{% endif %}{% endfor %}
+</ul>{% endif %}

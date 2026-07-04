@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang }}">
+    {% include head.html %}
+    <body>
+        {% include header.html %}{% unless page.permalink == "/" %}
+        {% include breadcrumbs.html %}{% endunless %}
+        <main>
+            <article>
+                {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+                {{ content }}
+            </article>
+        </main>
+        {% include footer.html %}
+        <script src="/assets/js/menu.js"></script>{% if site.pagefind %}
+        <script src="/pagefind/pagefind-component-ui.js" type="module"></script>{% endif %}
+    </body>
+</html>

@@ -1,4 +1,6 @@
-# ACP algorithms
+---
+title: ACP algorithms
+---
 
 ## Resolved Access Control
 
