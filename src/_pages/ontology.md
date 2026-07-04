@@ -2,21 +2,21 @@
 title: Ontology
 ---
 
-<blockquote cite="https://en.wikipedia.org/wiki/Ontology_(information_science)">
-  <p>In computer science and information science, an ontology encompasses a representation, formal naming and definition of the categories, properties and relations between the concepts, data and entities that substantiate one, many or all domains of discourse.</p>
-    <p>— <a href="https://en.wikipedia.org/wiki/Ontology_(information_science)">Wikipedia: Ontology (information science)</a></p>
-</blockquote>
+> In computer science and information science, an ontology encompasses a representation, formal naming and definition of the categories, properties and relations between the concepts, data and entities that substantiate one, many or all domains of discourse.
+>
+> — [Wikipedia: Ontology (information science)](https://en.wikipedia.org/wiki/Ontology_(information_science))
 
 ## Core W3C ontologies
 
 RDF, RDFS, OWL & XSD constitute the reserved vocabulary of the OWL 2 Web Ontology Language. Those four ontologies are therefore the backbone of the Semantic Web.
 
-<blockquote cite="https://www.w3.org/TR/rdf-concepts/">
-    <h3>Anyone Can Make Statements About Any Resource</h3>
-    <p>To facilitate operation at Internet scale, RDF is an open-world framework that allows anyone to make statements about any resource.</p>
-    <p>In general, it is not assumed that complete information about any resource is available. RDF does not prevent anyone from making assertions that are nonsensical or inconsistent with other statements, or the world as people see it. Designers of applications that use RDF should be aware of this and may design their applications to tolerate incomplete or inconsistent sources of information.</p>
-    <p>— <a href="https://www.w3.org/TR/rdf-concepts/#section-anyone">Resource Description Framework (RDF): Concepts and Abstract Syntax</a></p>
-</blockquote>
+> ### Anyone Can Make Statements About Any Resource
+>
+> To facilitate operation at Internet scale, RDF is an open-world framework that allows anyone to make statements about any resource.
+>
+> In general, it is not assumed that complete information about any resource is available. RDF does not prevent anyone from making assertions that are nonsensical or inconsistent with other statements, or the world as people see it. Designers of applications that use RDF should be aware of this and may design their applications to tolerate incomplete or inconsistent sources of information.
+>
+> — [Resource Description Framework (RDF): Concepts and Abstract Syntax](https://www.w3.org/TR/2003/PR-rdf-concepts-20031215/#section-anyone)
 
 ### RDF technical recommendations (25 February 2014)
 
@@ -66,11 +66,26 @@ RDF, RDFS, OWL & XSD constitute the reserved vocabulary of the OWL 2 Web Ontolog
 
 ## Other W3C ontologies
 
-SHACL, SKOS, DCAT, CSVW, VCARD.
+- [CSV on the Web](https://www.w3.org/TR/tabular-data-primer/)
+- [Data Catalog Vocabulary (DCAT)](https://www.w3.org/TR/vocab-dcat-3/)
+- [Open Digital Rights Language (ODRL)](https://www.w3.org/TR/odrl-model/)
+- [The Organization Ontology](https://www.w3.org/TR/vocab-org/)
+- [Shapes Constraint Language (SHACL)](https://www.w3.org/TR/shacl/)
+- [Simple Knowledge Organization System Reference (SKOS)](https://www.w3.org/TR/skos-reference/)
+- [Time Ontology in OWL](https://www.w3.org/TR/owl-time/)
+- [VCARD](https://www.w3.org/TR/vcard-rdf/)
+
 
 ## Other ontologies
 
-Dublin Core, FOAF, Schema.
+- [The Bibliographic Ontology (BIBO)](https://www.dublincore.org/specifications/bibo/)
+- [Croissant](https://docs.mlcommons.org/croissant/docs/croissant-spec-1.1.html)
+- [Dublin Core Metadata Initiative (DCMI) Metadata Terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/)
+- [FOAF](https://xmlns.com/foaf/spec/)
+- [GeoSPARQL](https://www.opengis.net/ont/geosparql)
+- [Schema.org](https://schema.org/)
+- [WGS84 Geo Positioning (geo)](https://www.w3.org/2003/01/geo/)
+
 
 ## Standard prefixes
 
@@ -109,4 +124,4 @@ prefix vcard: <http://www.w3.org/2006/vcard/ns#>
 prefix ws: <http://www.w3.org/ns/pim/space#>
 ```
 
-The namespace lookup tool [prefix.cc](https://prefix.cc) can help understand current prefix usage. The [Linked Open Vocabularies website](https://lov.linkeddata.es/dataset/lov/) can help understand vocabularies usage.
+The namespace lookup tool [prefix.cc](https://prefix.cc) can help understand current prefix usage. The [Linked Open Vocabularies website](https://lov.linkeddata.es/dataset) can help understand usage of vocabularies in datasets.
