@@ -4,34 +4,32 @@ title: Chords
 
 ## Overview
 
-<dl>
-  <dt>Major</dt>
-  <dd>Root, third, fifth.</dd>
+Major
+: Root, third, fifth.
 
-  <dt>Minor</dt>
-  <dd>Root, minor third, fifth.</dd>
+Minor
+: Root, minor third, fifth.
 
-  <dt>Diminished</dt>
-  <dd>Root, minor third, diminished fifth.</dd>
+Diminished
+: Root, minor third, diminished fifth.
 
-  <dt>Augmented</dt>
-  <dd>Root, third, augmented fifth.</dd>
+Augmented
+: Root, third, augmented fifth.
 
-  <dt>Seventh (dominant)</dt>
-  <dd>Root, third, fifth, seventh.</dd>
+Seventh (dominant)
+: Root, third, fifth, seventh.
 
-  <dt>Major seventh</dt>
-  <dd>Root, third, fifth, major seventh.</dd>
+Major seventh
+: Root, third, fifth, major seventh.
 
-  <dt>Minor seventh</dt>
-  <dd>Root, minor third, fifth, seventh.</dd>
+Minor seventh
+: Root, minor third, fifth, seventh.
 
-  <dt>Minor sixth</dt>
-  <dd>Root, minor third, fifth, sixth.</dd>
+Minor sixth
+: Root, minor third, fifth, sixth.
 
-  <dt>Half-diminished seventh</dt>
-  <dd>Root, minor third, diminished fifth, seventh.</dd>
+Half-diminished seventh
+: Root, minor third, diminished fifth, seventh.
 
-  <dt>Diminished seventh</dt>
-  <dd>Root, minor third, diminished fifth, diminished seventh (sixth).</dd>
-</dl>
+Diminished seventh
+: Root, minor third, diminished fifth, diminished seventh (sixth).
