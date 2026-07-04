@@ -4,11 +4,11 @@ breadcrumbs:
   - title: Toolbox
 ---
 
-> The GNU Privacy Guard
+> The GNU Privacy Guard (GPG)
 >
 > GnuPG is a complete and free implementation of the OpenPGP standard as defined by [RFC4880](https://www.ietf.org/rfc/rfc4880.txt) (also known as PGP).
 >
-> – https://gnupg.org/
+> — [gnupg.org](https://gnupg.org)
 
 
 ## Install
