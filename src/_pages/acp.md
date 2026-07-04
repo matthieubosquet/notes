@@ -1,5 +1,7 @@
 ---
 title: ACP algorithms
+breadcrumbs:
+  - title: Semantic Web
 ---
 
 ## Resolve Access Control

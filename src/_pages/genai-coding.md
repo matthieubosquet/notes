@@ -1,5 +1,7 @@
 ---
 title: GenAI Coding
+breadcrumbs:
+  - title: Computer Dreams
 ---
 
 ## Rules

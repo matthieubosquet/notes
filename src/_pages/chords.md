@@ -1,5 +1,7 @@
 ---
 title: Chords
+breadcrumbs:
+  - title: Music
 ---
 
 ## Overview
