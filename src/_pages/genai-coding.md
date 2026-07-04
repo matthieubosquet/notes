@@ -2,32 +2,20 @@
 title: GenAI Coding
 ---
 
-1. Read and think critically about every line of code you contribute
-1. Less is more
-1. Use it to reduce cognitive load
+## Rules
 
+1. **Stay in control**: AI is just an assistant in prompting you to think critically, proposing relevant knowledge and helping you identify inconsistencies. Understand the problem and formulate the solution.
+1. **Less is more**: It is cheap to generate vast amounts of unhelpful content that is very expensive to review and understand. Respect yourself, your colleagues, your clients by carefully and strategically curating output.
+1. **Act responsibly**: Your are responsible for what you produce with AI tools or without. Test, review, refine, and be ready to argument your contributions with other humans.
+
+
+## Quotes
 
 > Though shall not make a machine in the likeness of the human mind.
 > 
 > — Dune
 
 
+## Related content
 
-Guidelines for GenAI assisted coding:
-
-
-Everything must be reviewed and tested by humans
-If you AI Gen a PR, make it draft until you have fully reviewed it
-
-Be mindful of verbosity in all its aspects
-PR text
-Code
-Amount of output: we don't want many libraries/apps, we want as few as possible that we can commit to maintaining
-
-
-
-It is an amazing tool to reduce complexity and improve quality. Let's be mindful of others and strategic in where we focus attention.
-
-A corollary of AI is also that workload as a maintainer (security...) has increased, we can produce better quality but we also MUST produce better quality to be AI-ready.
-
-Linus Torvald has an interesting and recent short convo about it online (worth watching imo): https://www.youtube.com/watch?v=4_x0USuQ9Ss
+- [Linus Torvald on AI programming](https://www.youtube.com/watch?v=4_x0USuQ9Ss)
