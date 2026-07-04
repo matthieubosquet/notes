@@ -2,12 +2,12 @@
 title: ACP algorithms
 ---
 
-## Resolved Access Control
+## Resolve Access Control
 
 ```javascript
 function resolveAccessControl(acr, ancestorAcrs, context) {
     const effectivePolicies = gatherEffectivePolicies(acr, ancestorAcrs)
-    const allowedAccessModes = grantAccessModes(effectivePolicies, context)
+    const allowedAccessModes = resolveAllowedAccessModes(effectivePolicies, context)
     const grantGraph = {
         context,
         grant: allowedAccessModes
@@ -17,7 +17,7 @@ function resolveAccessControl(acr, ancestorAcrs, context) {
 }
 ```
 
-## Effective Policies
+### Gather Effective Policies
 
 ```javascript
 function gatherEffectivePolicies(acr, ancestorAcrs) {
@@ -39,10 +39,10 @@ function gatherEffectivePolicies(acr, ancestorAcrs) {
 ```
 
 
-## Granted Access Modes
+### Resolve Allowed Access Modes
 
 ```javascript
-function grantAccessModes(policies, context) {
+function resolveAllowedAccessModes(policies, context) {
     const allowedAccessModes = new Set, deniedAccessModes = new Set
 
     // Gather allowed and denied access modes from satisfied policies
@@ -64,7 +64,7 @@ function grantAccessModes(policies, context) {
 ```
 
 
-## Satisfied Policy
+#### Is Satisfied Policy
 
 ```javascript
 function isSatisfiedPolicy(policy, context) {
@@ -96,7 +96,7 @@ function isSatisfiedPolicy(policy, context) {
 ```
 
 
-## Satisfied Matcher
+##### Is Satisfied Matcher
 
 ```javascript
 function isSatisfiedMatcher(matcher, context) {
