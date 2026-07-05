@@ -63,10 +63,8 @@ ex:alice
 
 ## Definitions
 
-<dl>
-    <dt>WebID</dt>
-    <dd>An HTTP URI which refers to an <a href="http://xmlns.com/foaf/spec/#term_Agent">Agent</a> and conforms to a set of <a href="#requirements">requirements</a> defined in the <a href="https://www.w3.org/2005/Incubator/webid/spec/identity/">WebID specification</a>.</dd>
-</dl>
+WebID
+: An HTTP URI which refers to an [Agent](https://xmlns.com/foaf/spec/#term_Agent) and conforms to a set of [requirements](#requirements) defined in the [WebID specification](https://www.w3.org/2005/Incubator/webid/spec/identity/).
 
 
 ## References
