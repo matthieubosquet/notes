@@ -33,7 +33,7 @@ check_internal_links: true
 check_external_links: true
 check_insecure_links: true
 styles:
-  input: /assets/css/
+  input: /_styles/
   output: /assets/css/styles.css
   rouge_theme: github
   minify: true
