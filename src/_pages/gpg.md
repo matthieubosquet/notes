@@ -1,7 +1,8 @@
 ---
 title: GPG
 breadcrumbs:
-  - title: Toolbox
+  - title: Computer Dreams
+  - title: Tools
 ---
 
 > The GNU Privacy Guard (GPG)

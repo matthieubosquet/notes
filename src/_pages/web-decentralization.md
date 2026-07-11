@@ -1,6 +1,7 @@
 ---
 title: Web Decentralization
 breadcrumbs:
+  - title: Computer Dreams
   - title: Semantic Web
 ---
 

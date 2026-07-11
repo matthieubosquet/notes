@@ -1,6 +1,7 @@
 ---
 title: ACP algorithms
 breadcrumbs:
+  - title: Computer Dreams
   - title: Semantic Web
 ---
 
