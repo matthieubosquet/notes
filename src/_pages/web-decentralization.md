@@ -17,3 +17,7 @@ Access is simple, there are only two kinds of actions one can perform over an in
 Authority is complex as it highlights the gap between the real world and information.
 
 Authoritative sources of truth organise behind protocols, processes, co-opting, cryptography and ultimately rely on trust and are as faillible as their weakest link.
+
+## References
+
+- [Design Issues](https://www.w3.org/DesignIssues/)
