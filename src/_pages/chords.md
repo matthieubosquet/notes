@@ -1,7 +1,7 @@
 ---
 title: Chords
 breadcrumbs:
-  - title: Music
+  - Music
 ---
 
 ## Overview

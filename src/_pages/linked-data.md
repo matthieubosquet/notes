@@ -1,8 +1,8 @@
 ---
 title: Linked Data
 breadcrumbs:
-  - title: Computer Dreams
-  - title: Semantic Web
+  - Computer Dreams
+  - Semantic Web
 ---
 
 ## References

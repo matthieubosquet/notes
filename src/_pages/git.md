@@ -1,8 +1,8 @@
 ---
 title: Git
 breadcrumbs:
-  - title: Computer Dreams
-  - title: Developer Tools
+  - Computer Dreams
+  - Developer Tools
 ---
 
 > Git is a [free and open source](https://git-scm.com/about#free-and-open-source) distributed version control system...

@@ -1,8 +1,8 @@
 ---
 title: Web Decentralization
 breadcrumbs:
-  - title: Computer Dreams
-  - title: Semantic Web
+  - Computer Dreams
+  - Semantic Web
 ---
 
 RDF is a framework for representing information in the Web.

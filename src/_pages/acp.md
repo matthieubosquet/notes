@@ -1,8 +1,8 @@
 ---
 title: ACP algorithms
 breadcrumbs:
-  - title: Computer Dreams
-  - title: Semantic Web
+  - Computer Dreams
+  - Semantic Web
 ---
 
 ## Resolve Access Control
