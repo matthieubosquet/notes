@@ -18,6 +18,6 @@ breadcrumbs:
 > — Dune
 
 
-## Related content
+## References
 
 - [Linus Torvald on AI programming](https://www.youtube.com/watch?v=4_x0USuQ9Ss)
