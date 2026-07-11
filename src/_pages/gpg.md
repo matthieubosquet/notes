@@ -2,7 +2,7 @@
 title: GPG
 breadcrumbs:
   - title: Computer Dreams
-  - title: Tools
+  - title: Developer Tools
 ---
 
 > The GNU Privacy Guard (GPG)
