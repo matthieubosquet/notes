@@ -12,11 +12,12 @@ module Jekyll
       process(@name)
 
       self.data = {
-        "layout"      => "breadcrumb",
-        "title"       => breadcrumb_title,
-        "breadcrumbs" => breadcrumbs,
-        "pages"       => pages.sort_by { |p| p.data["title"].to_s },
-        "permalink"   => "/#{BreadcrumbPage.slugify(breadcrumb_title)}"
+        "layout"          => "breadcrumb",
+        "title"           => breadcrumb_title,
+        "breadcrumbs"     => breadcrumbs,
+        "pages"           => pages.sort_by { |p| p.data["title"].to_s },
+        "permalink"       => "/#{BreadcrumbPage.slugify(breadcrumb_title)}",
+        "breadcrumb_page" => true
       }
     end
 
